@@ -16,7 +16,7 @@
 <p>💡 I enjoy solving complex problems and continuously improving my coding skills through hands-on projects.</p>
 <p>⚡ I'm a quick learner who adapts easily to changes.</p>
 
-<h2 align="left">Websites:</h2>
+<h2 align="left">🖥️ Websites:</h2>
 
 - <a href="https://ecomscribe.vercel.app/">EcomScribe</a>
 - <a href="http://143.198.34.238/login">Data Driven AI Journal Writing Assistant</a>
@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="30" alt="angularjs logo"  />
 </div>
 
-<h2 align="left">GitHub Stats:</h2>
+<h2 align="left">📋 GitHub Stats:</h2>
 
 <p dir="auto">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=talha2000&theme=dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="talha2000" />
