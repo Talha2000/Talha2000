@@ -9,7 +9,7 @@
 
 ###      
 
-<p>🤝 I am currently seeking new opportunities as a Junior/intermediate Software Developer.</p>
+<p>🤝 I am currently a Software Engineer at Evertz.</p>
 <p>🎓 I am a recent graduate with a degree in Computer Science from McMaster University.</p>
 <p>💼 I completed a 16-month internship as a Process Automation/Software Developer Intern at ArcelorMittal Dofasco.</p>
 <p>📚 I am developing full-stack applications using TypeScript, Next.js, React, Tailwind CSS, and PostgreSQL.</p>
