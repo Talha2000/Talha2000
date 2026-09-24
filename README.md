@@ -20,7 +20,7 @@
 
 - <a href="https://ecomscribe.vercel.app/">EcomScribe</a>
 - <a href="http://143.198.34.238/login">Data Driven AI Journal Writing Assistant</a>
-- <a href="https://mystocktracker.vercel.app/login">Stock Tracker</a>
+- <a href="https://mystocktracker.vercel.app/login">Stock Tracker</a> (WIP for rework)
 - <a href="https://feastbud.vercel.app/">FeastBud</a> (Work in Progress)
 
 ###
