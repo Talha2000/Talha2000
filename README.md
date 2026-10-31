@@ -21,6 +21,7 @@
 - <a href="https://ecomscribe.vercel.app/">EcomScribe</a>
 - <a href="https://mystocktracker.vercel.app/login">Stock Tracker</a> (WIP for rework)
 - <a href="https://feastbud.vercel.app/">FeastBud</a> (Work in Progress)
+- <a href="https://www.zeethecpa.com/">ZeeTheCpa</a> (Tax and bookkeeping for individuals and businesses)
 
 ###
 
